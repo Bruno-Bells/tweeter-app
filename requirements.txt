@@ -1,0 +1,4 @@
+git+https://github.com/Bruno-Odinukweze/twint_for_linux.git
+Django==4.0
+gunicorn==20.1.0
+djangorestframework==3.13.1
