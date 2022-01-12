@@ -14,7 +14,7 @@ A database that were the scraped data is saved
 An API that enable to perform CRUD operaions across the database
 
 # 3. Cron Job
-A separate script that populates the Database on a given time
+A separate script scrape twitter and populate the Database on every given time
 
 # 4. Clean DB script
 A script that clean up the database every 24 hours (this feature is to manage our database storage)
