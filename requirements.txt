@@ -1,4 +1,11 @@
-git+https://github.com/Bruno-Odinukweze/twint_for_linux.git
-Django==4.0
+git+https://github.com/Museum-Barberini/twint.git@fix/RefreshTokenException#egg=twint
+Django==3.2.11
 gunicorn==20.1.0
 djangorestframework==3.13.1
+pandas==1.1.5
+numpy==1.19.5
+nest-asyncio==1.5.1
+aiohttp==3.8.1
+pymongo==3.12.1.
+dnspython
+djongo==1.3.6
